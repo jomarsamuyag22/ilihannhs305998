@@ -1,0 +1,27 @@
+body {
+  font-family: Arial;
+  background: #f4f6f9;
+  text-align: center;
+}
+
+.card {
+  background: white;
+  padding: 20px;
+  margin: 20px auto;
+  width: 300px;
+  border-radius: 10px;
+}
+
+input, select {
+  width: 100%;
+  padding: 10px;
+  margin: 5px 0;
+}
+
+button {
+  padding: 10px;
+  margin: 5px;
+  background: #004080;
+  color: white;
+  border: none;
+}
